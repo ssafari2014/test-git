@@ -9,3 +9,4 @@ def sub_tafrigh(a, b):
 
 def zarb_dar(a, b):
     return a * b
+
