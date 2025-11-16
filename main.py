@@ -1,2 +1,10 @@
-print('Hello World')
-print(2 + 2)
+
+def sub_nums(a, b):
+    return a + b
+
+
+def sub_tafrigh(a, b):
+    return a - b
+
+
+
